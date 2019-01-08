@@ -12,6 +12,7 @@
 - Deploying a Seq2Seq Model with the Hybrid Frontend [官方教程](https://pytorch.org/tutorials/beginner/deploy_seq2seq_hybrid_frontend_tutorial.html) [GitHub链接](https://github.com/yanmengk/LearningPyTorch/blob/master/Deploying%20a%20seq2seq%20model%20with%20the%20hybrid%20frontend.ipynb)
 - Saving and Loading Models [官方教程](https://pytorch.org/tutorials/beginner/saving_loading_models.html#) [GitHub链接](https://github.com/yanmengk/LearningPyTorch/blob/master/Saving%20and%20Loading%20Models.ipynb)
 
+- What is torch.nn really? [官方教程](https://pytorch.org/tutorials/beginner/nn_tutorial.html) [GitHub链接](https://github.com/yanmengk/LearningPyTorch/blob/master/What%20is%20torch.nn%20really%3F.ipynb)
 
 
 ### 2. 深度学习框架PyTorch:入门与实践
